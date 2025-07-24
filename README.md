@@ -1,4 +1,4 @@
-# 🦜️🔗 LangChain {partner}
+# 🦜️🔗 LangChain {Moorcheh}
 
 This repository contains 1 package with {partner} integrations with LangChain:
 
