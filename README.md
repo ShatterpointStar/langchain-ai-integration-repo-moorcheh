@@ -1,6 +1,6 @@
-# 🦜️🔗 LangChain {Moorcheh}
+# 🦜️🔗 LangChain Moorcheh
 
-This repository contains 1 package with {partner} integrations with LangChain:
+This repository contains 1 package with Moorcheh integrations with LangChain:
 
 - [langchain-{package_lower}](https://pypi.org/project/langchain-{package_lower}/)
 
